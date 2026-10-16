@@ -8,6 +8,8 @@
             {
                 Console.WriteLine($"{i}");
             }
+
+            Console.WriteLine("KYRYLO");
         }
     }
 }
